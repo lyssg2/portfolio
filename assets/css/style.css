@@ -29,9 +29,23 @@ p {
 #card-img {
     width: 100%;
     height: 150px;
+    filter: grayscale(100%);
 }
 
 .card {
     width: 250px;
     border: 0 solid rounded;
+}
+
+@media (max-width: 990px) {
+    .resizeimg {
+        height: auto;
+    }
+}
+
+@media (min-width: 1000px) {
+    .resizeimg {
+        width: auto;
+        height: 350px;
+    }
 }
