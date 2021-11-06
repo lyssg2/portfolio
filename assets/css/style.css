@@ -37,15 +37,20 @@ p {
     border: 0 solid rounded;
 }
 
-@media (max-width: 990px) {
-    .resizeimg {
+#card-box {
+    margin-top: 20px;
+}
+
+
+/* @media (max-width: 990px) {
+    .card {
         height: auto;
     }
 }
 
 @media (min-width: 1000px) {
-    .resizeimg {
+    .card {
         width: auto;
         height: 350px;
     }
-}
+} */
