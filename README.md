@@ -12,7 +12,8 @@ The quiz can be found at URL below
 https://lyssg2.github.io/portfolio/
 
 ## Screenshot
-![Uploading 2021-11-06 (11).png…]()
+
+![2021-11-06 (11)](https://user-images.githubusercontent.com/89744530/140628218-143e222a-6f67-474f-b02a-e8444e70f91d.png)
 
 ## Author
 
