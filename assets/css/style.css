@@ -51,3 +51,20 @@ p {
     justify-content: center;
     align-items: center;
 }
+
+li {
+    text-decoration: none;
+    float: right;
+    text-align: left;
+    padding-right: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    padding: 5px;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
