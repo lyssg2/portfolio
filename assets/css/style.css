@@ -37,20 +37,17 @@ p {
     border: 0 solid rounded;
 }
 
-#card-box {
+#my-work {
     margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
-
-/* @media (max-width: 990px) {
-    .card {
-        height: auto;
-    }
+#card-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
-
-@media (min-width: 1000px) {
-    .card {
-        width: auto;
-        height: 350px;
-    }
-} */
