@@ -13,7 +13,7 @@ https://lyssg2.github.io/portfolio/
 
 ## Screenshot
 
-![2021-11-06 (11)](https://user-images.githubusercontent.com/89744530/140628218-143e222a-6f67-474f-b02a-e8444e70f91d.png)
+![2022-02-12 (2)](https://user-images.githubusercontent.com/89744530/153734726-c735336c-156c-42f1-a894-794472993b1b.png)
 
 ## Author
 
